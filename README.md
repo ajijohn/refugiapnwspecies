@@ -25,9 +25,8 @@ These maps support conservation planning by highlighting areas where species are
 
 ## Repository Contents
 
-| Folder | Description |
+| Folder  | Description  |
 |---------|--------------|
-| `/data/` | Spatial input datasets (e.g., DEM derivatives, stream temperature, vegetation change) |
 | `/outputs/` | Final refugia maps by species and region (GeoPkg formats) |
 
 ---
