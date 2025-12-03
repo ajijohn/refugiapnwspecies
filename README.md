@@ -1,15 +1,13 @@
 # Climate refugia mapping for species of concern in the Pacific Northwest (PNW)
 
-This repository contains spatial data inputs and outputs for identifying potential climatic refugia for seven priority species across Washington, Oregon, and Idaho. These refugia represent areas buffered from climate shifts—offering critical conservation value under ongoing and future climate change.
+This repository contains outputs for identifying potential climatic refugia for seven priority species across Washington, Oregon, and Idaho. These refugia represent areas buffered from climate shifts—offering critical conservation value under ongoing and future climate change.
 
 ---
 
 ## Overview
 
 We collaborated closely with species experts and land managers to define key indicators of climate refugia tailored to each species’ ecological sensitivities and threats.  
-This project integrates multiple spatial datasets—including stream temperature and streamflow projections, vegetation conversion risk, fire frequency, soil moisture, and topographic complexity— to model and map potential refugia across the PNW.  
-
-These maps support conservation planning by highlighting areas where species are more likely to persist under future climate scenarios.
+This project integrates multiple spatial datasets—including stream temperature and streamflow projections, vegetation conversion risk, fire frequency, soil moisture, and topographic complexity— to model and map potential refugia across the PNW. These maps support conservation planning by highlighting areas where species are more likely to persist under future climate scenarios.
 
 ### Target Species
 
@@ -27,7 +25,7 @@ These maps support conservation planning by highlighting areas where species are
 
 | Folder  | Description  |
 |---------|--------------|
-| `/outputs/` | Final refugia maps by species and region (GeoPkg formats) |
+| `/outputs/` | Final refugia maps by species and region (Coarsened GeoPkg formats) |
 
 ---
 
