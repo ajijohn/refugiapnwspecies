@@ -1,13 +1,13 @@
-# Climate Refugia Mapping for Species of Concern in the Pacific Northwest
+# Climate refugia mapping for species of concern in the Pacific Northwest (PNW)
 
-This repository contains spatial data inputs and outputs for identifying potential **climatic refugia** for seven priority species across Washington, Oregon, and Idaho. These refugia represent areas buffered from climate shifts—offering critical conservation value under ongoing and future climate change.
+This repository contains spatial data inputs and outputs for identifying potential climatic refugia for seven priority species across Washington, Oregon, and Idaho. These refugia represent areas buffered from climate shifts—offering critical conservation value under ongoing and future climate change.
 
 ---
 
 ## Overview
 
-We collaborated closely with **species experts** and **land managers** to define key indicators of climate refugia tailored to each species’ ecological sensitivities and threats.  
-This project integrates multiple spatial datasets—including **stream temperature and streamflow projections, vegetation conversion risk, fire frequency, soil moisture,** and **topographic complexity**—to model and map potential refugia across the Pacific Northwest.  
+We collaborated closely with species experts and land managers to define key indicators of climate refugia tailored to each species’ ecological sensitivities and threats.  
+This project integrates multiple spatial datasets—including stream temperature and streamflow projections, vegetation conversion risk, fire frequency, soil moisture, and topographic complexity— to model and map potential refugia across the PNW.  
 
 These maps support conservation planning by highlighting areas where species are more likely to persist under future climate scenarios.
 
@@ -33,7 +33,7 @@ These maps support conservation planning by highlighting areas where species are
 
 ## Outputs
 
-Each refugia map is available at the **HUC12 watershed scale**, categorized into **low**, **moderate**, or **high** refugia potential.  
+Each refugia map is available at the HUC12 watershed scale, categorized into low**, moderate**, or high refugia potential.  
 These outputs can be integrated into GIS workflows or visualization platforms for regional conservation planning.
 
 ---
